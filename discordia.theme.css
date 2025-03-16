@@ -49,8 +49,8 @@
   --custom-image-url: url('https://i.imgur.com/vaTcpeL.jpeg');  /* background image */
   --app-blur: 4px;                                              /* background image blur */
 
-  --custom-logo: url('https://github.com/zacharyfrandsen/DiscordDiscordia/blob/main/awkglass_code/assets/secret.png'); /* custom logo */
-  --custom-logo-hover: url('https://github.com/zacharyfrandsen/DiscordDiscordia/blob/main/awkglass_code/assets/secret.png'); /* custom logo (hover) */
+  --custom-logo: url('https://github.com/zacharyfrandsen/DiscordDiscordia/blob/main/awkglass_code/assets/secret.png?raw=true'); /* custom logo */
+  --custom-logo-hover: url('https://github.com/zacharyfrandsen/DiscordDiscordia/blob/main/awkglass_code/assets/secret.png?raw=true'); /* custom logo (hover) */
 
   /* FONTS */
     --font-primary: 'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
