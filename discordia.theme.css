@@ -46,8 +46,8 @@
   --HSL-server-spacing: 10px;                             /* Spacing between each server icon | DEFAULT: 10px */
   --HSL-server-direction: column;                         /* Direct of the server list. | Options: column, column-reverse | DEFAULT: column */
 
-  --custom-image-url: url('https://i.imgur.com/QBYcjre.jpeg');  /* background image */
-  --app-blur: 8px;                                              /* background image blur */
+  --custom-image-url: url('https://i.imgur.com/vaTcpeL.jpeg');  /* background image */
+  --app-blur: 4px;                                              /* background image blur */
 
   --custom-logo: url('https://github.com/zacharyfrandsen/DiscordDiscordia/blob/main/awkglass_code/assets/secret.png'); /* custom logo */
   --custom-logo-hover: url('https://github.com/zacharyfrandsen/DiscordDiscordia/blob/main/awkglass_code/assets/secret.png'); /* custom logo (hover) */
